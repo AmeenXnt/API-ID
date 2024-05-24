@@ -1,1 +1,2 @@
-# API-ID
+# WA-PairCode
+Pair code 😉
